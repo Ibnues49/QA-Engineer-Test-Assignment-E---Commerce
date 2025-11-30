@@ -6,6 +6,8 @@ Automation Testing menggunakan Katalon Studio (60%)**
 
 Website yang diuji: https://demowebshop.tricentis.com/
 
+Semua project ada di branch **MASTER**
+
 **Section 1 – Manual Testing**
 terdapat pada file : Testcase E- Commerce_Ibnu Aqil.xlsx
 
